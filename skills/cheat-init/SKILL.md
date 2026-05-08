@@ -72,6 +72,7 @@ allowed-tools: Bash(*), Read, Write, Edit, Glob, WebFetch, Skill
    不然第一批预测基本是占星。后面 Q5 会再问一次。
 
 准备好开始吗？
+回复：**继续**（我就开始 Q1）。
 ```
 
 如果用户答"继续"或类似肯定回应 → Phase 2。
